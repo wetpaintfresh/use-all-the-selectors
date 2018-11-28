@@ -2,12 +2,8 @@ html {
   background-color: #fdf6e3;
 }
 
-.header {
-  font-size: 1rem;
-}
-
-.footer {
-  font-size: 1rem;
+header, footer {
+  font-size: 1.5rem;
 }
 
 nav ul {
@@ -25,10 +21,12 @@ nav ul {
   color: #93a1a1;
 }
 
- {
-  background-color: #fff;
+.wrapper div .dfn{
+  background-color: #b58900;
 }
-
+#facts .dfn p + strong{
+  color: #fff;
+}
 a:not(.no-highlight) {
   background-color: #719e07;
 }
@@ -65,13 +63,4 @@ ol li:last-child {
 }
 .types:nth-child(3n){
   background-color: #d04b16;
-}
-
-}
-<li>Blueberry{
-  color: #2aa198;
-}
-
-.ul class{
-
 }
