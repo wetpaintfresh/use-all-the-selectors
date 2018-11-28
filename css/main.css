@@ -1,0 +1,63 @@
+html {
+  background-color: #fdf6e3;
+}
+
+.header {
+  font-size: 1rem;
+}
+
+.footer {
+  font-size: 1rem;
+}
+
+nav ul {
+  font-family: sans-serif;
+}
+.logo {
+   text-transform: uppercase;
+ }
+
+ .wrapper {
+   background-color: #eee8d5;
+ }
+
+#contents, #favs, #facts, #types {
+  color: #93a1a1;
+}
+
+ {
+  background-color: #fff;
+}
+
+a:not(.no-highlight) {
+  background-color: #719e07;
+}
+
+.dfn {
+  font-weight: bold;
+background-color: #b58900;
+}
+
+.p {
+  color: #fff;
+}
+
+a href {
+  background-color:  #719e07;
+}
+[rel="external"] {
+  background-color: #2694d8;
+}
+
+
+<li>Raspberry{
+  color: #719e47;
+
+}
+<li>Blueberry{
+  color: #2aa198;
+}
+
+.ul class{
+
+}
